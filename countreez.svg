@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <title>Countreez Logo - Global Search</title>
+    <circle cx="90" cy="90" r="60" fill="#E6F4F1"/>
+    <path d="M90 30C56.8629 30 30 56.8629 30 90C30 123.137 56.8629 150 90 150C123.137 150 150 123.137 150 90" stroke="#4DA6FF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M35 70C50 75 130 75 145 70" stroke="#A3D5FF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M35 110C50 105 130 105 145 110" stroke="#A3D5FF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M90 32V148" stroke="#A3D5FF" stroke-width="4" stroke-linecap="round"/>
+    
+    <g transform="translate(20, 20)">
+        <circle cx="110" cy="110" r="45" stroke="#0052CC" stroke-width="12"/>
+        <path d="M142 142L175 175" stroke="#0052CC" stroke-width="12" stroke-linecap="round"/>
+    </g>
+</svg>
