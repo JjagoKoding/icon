@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 465 120" width="465" height="120">
+  <g transform="translate(30, 5)">
+    <path d="M20,30 L10,90 H80 L70,30 Z" fill="#004d4d"/>
+    <path d="M25,30 L45,60 L65,30" fill="none" stroke="#f0c419" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="45" cy="20" r="6" fill="#f0c419"/>
+  </g>
+
+  <g transform="translate(130, 75)">
+    <text font-family="'Gill Sans', 'Gill Sans MT', Calibri, sans-serif" font-size="40" font-weight="bold" letter-spacing="1">
+      <tspan fill="#004d4d">VEL</tspan><tspan fill="#f0c419">COMMERCE</tspan>
+    </text>
+  </g>
+</svg>
