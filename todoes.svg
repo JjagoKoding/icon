@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(15, 5)">
+        
+        <rect x="5" y="70" width="65" height="12" rx="4" fill="#B0BEC5" />
+        
+        <rect x="5" y="42.5" width="65" height="12" rx="4" fill="#B0BEC5"/>
+
+        <path d="M9,8 
+                 L66,8 C68.2,8 70,9.8 70,12 
+                 L70,16 C70,18.2 68.2,20 66,20 
+                 L28,20 
+                 L18,32 L8,20 
+                 L9,20 C6.8,20 5,18.2 5,16 
+                 L5,12 C5,9.8 6.8,8 9,8 Z" 
+                 fill="#00BFA5"/>
+    </g>
+</svg>
