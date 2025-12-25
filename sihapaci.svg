@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 140">
+  <defs>
+    <style>
+      /* Menggunakan Arial Black atau font weight 900 untuk ketebalan maksimal */
+      .main-text { font-family: 'Arial Black', 'Arial', sans-serif; font-weight: 900; font-size: 80px; }
+      .blue-text { fill: #1565c0; }
+      .green-text { fill: #7cb342; /* Warna hijau padi */ }
+      .sub-text { font-family: 'Arial', sans-serif; font-size: 18px; fill: #546e7a; letter-spacing: 1px;}
+    </style>
+  </defs>
+
+  <g transform="translate(75, 100)">
+    <text class="main-text">
+      <tspan class="blue-text">SiHaPaCi</tspan>
+    </text>
+  </g>
+</svg>
